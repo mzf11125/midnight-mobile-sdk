@@ -1,5 +1,5 @@
 {
-  "name": "@dedanzi/midnight-mobile-sdk",
+  "name": "@mzf11125/midnight-mobile-sdk",
   "version": "0.1.1",
   "description": "React Native SDK for Midnight Network - Mobile wallet, contracts, and DApp connectivity",
   "main": "src/index.ts",
@@ -27,7 +27,7 @@
     "type": "git",
     "url": "git+https://github.com/mzf11125/midnight-mobile-sdk.git"
   },
-  "author": "dedanzi",
+  "author": "mzf11125",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mzf11125/midnight-mobile-sdk/issues"
