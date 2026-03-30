@@ -25,14 +25,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dedanzi/midnight-mobile-sdk.git"
+    "url": "git+https://github.com/mzf11125/midnight-mobile-sdk.git"
   },
   "author": "dedanzi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dedanzi/midnight-mobile-sdk/issues"
+    "url": "https://github.com/mzf11125/midnight-mobile-sdk/issues"
   },
-  "homepage": "https://github.com/dedanzi/midnight-mobile-sdk#readme",
+  "homepage": "https://github.com/mzf11125/midnight-mobile-sdk#readme",
   "publishConfig": {
     "access": "public"
   },
