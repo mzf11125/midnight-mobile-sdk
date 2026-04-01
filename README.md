@@ -5,6 +5,8 @@
 [![npm version](https://badge.fury.io/js/%40dedanzi%2Fmidnight-mobile-sdk.svg)](https://www.npmjs.com/package/@dedanzi/midnight-mobile-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+> This project extends the Midnight Network with additional developer tooling.
+
 ## Overview
 
 `@dedanzi/midnight-mobile-sdk` is a comprehensive React Native library for building mobile applications on the Midnight Network. It wraps the existing `@midnight-ntwrk` packages while providing mobile-specific adapters:
